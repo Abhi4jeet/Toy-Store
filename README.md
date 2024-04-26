@@ -1,5 +1,5 @@
 # Toy-Store
-The Dataset contains tables named product, store, inventory, sales and a clander table.
+The Dataset contains tables named product, store, inventory, sales and a calendar table.
 Product table has details product id, product name, category, product cost and retail price.
 Inventory table gives store id, product id and stock in hand.
 Store table has store id, name, location, city.
